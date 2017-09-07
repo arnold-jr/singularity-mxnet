@@ -1,2 +1,3 @@
-# singularity-mxnet-gpu_0.10.0
+# singularity-mxnet
+
 SIngularity bootstrap files inheriting from mxnet on dockerhub
